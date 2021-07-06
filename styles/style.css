@@ -28,11 +28,6 @@ div {
 		padding-right: 50px;
 	}
 	
-	.content-img{
-		float: right;
-		margin-top: 100px;
-	}
-	
 	#picture{
 		width: 400px;	
 		height: 380px;
@@ -45,11 +40,6 @@ div {
 			font-weight: bold;
 			padding-right: 10px;
 			margin-left: 10px;
-		}
-	
-		.content-img{
-		   float: right; 
-			margin-top: 100px;
 		}
 		
 		#picture{
